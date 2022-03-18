@@ -1,4 +1,5 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
+  Plug 'xiyaowong/nvim-transparent'
   Plug 'jiangmiao/auto-pairs'
   Plug 'projekt0n/github-nvim-theme'
   Plug 'github/copilot.vim'
